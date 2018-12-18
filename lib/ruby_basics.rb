@@ -16,7 +16,7 @@ end
 
 def return_a_value
   puts "Nice"
-  return_a_value
+
 end
 
 def last_evaluated_value
